@@ -7,6 +7,7 @@
 #include <windows.h>
 
 using namespace std;
+/* edición de código */
 
 void habilidades(int tablero[10][10], int &score, int cursi, int cursj, COORD coordenadas)
 {
